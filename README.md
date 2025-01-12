@@ -2,3 +2,7 @@
 - Eggs
 - Xbox
 - Milk
+- Japanse Xbox
+- Milk Duds
+- Dice
+- Beer
